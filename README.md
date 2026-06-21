@@ -1,18 +1,8 @@
-<html>
-<head>
-<style>
-body {
-  background-color: #000000 !important;
-}
-</style>
-</head>
-<body style="background-color: #000000;">
-
 <div align="center">
 
 # 👋 Welcome to My GitHub Profile!
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=900&size=40&duration=4000&pause=1000&color=00FF41&center=true&width=800&height=100&lines=Hi%2C+I'm+Ihtesham+🚀;Full+Stack+Developer+💻;Web+Innovation+Expert+⚡;Code+is+Art+🎨)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=700\&size=35\&duration=4000\&pause=1000\&color=00FF41\&center=true\&vCenter=true\&width=800\&lines=Hi+I'm+Ihtesham;Full+Stack+Developer;JavaScript+Developer;Computer+Science+Student)
 
 </div>
 
@@ -24,54 +14,55 @@ body {
 
 </div>
 
-I'm **Ihtesham**, a passionate **Full Stack Developer** who transforms ideas into elegant, scalable solutions. With expertise across the entire web stack, I craft seamless digital experiences that make an impact.
+💻 **Full Stack Developer**
 
-- 💻 **Full Stack Developer** | Crafting beautiful web experiences
-- 🎯 **Problem Solver** | Tackling complex technical challenges  
-- 📚 **Lifelong Learner** | Always exploring new technologies
-- 🤝 **Collaborator** | Love working with talented teams
-- 🚀 **Innovator** | Building the future of web development
+🎓 Computer Science Student
+
+🚀 Passionate about building modern web applications
+
+📚 Always learning new technologies
+
+🎯 Focused on JavaScript, Web Development & Problem Solving
+
+🤝 Open to collaboration and exciting projects
 
 ---
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=html5,HTML5,E34F26;css3,CSS3,1572B6;javascript,JavaScript,F7DF1E;&line2=git,Git,F05032;github,GitHub,FFFFFF;vscode,VS%20Code,007ACC;" />
 
 </div>
 
-<div align="center">
+### 🎨 Frontend
 
-<img src="https://media.giphy.com/media/RbDKczqmaBVAY/giphy.gif" width="300" height="200" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
-</div>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 🎨 Frontend Mastery
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### ⚙️ Backend Power
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000)
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
 <div align="center">
 
-## 📊 My GitHub Statistics
+## 📊 GitHub Statistics
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihtesham2828\&show_icons=true\&theme=chartreuse-dark)
 
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihtesham2828\&layout=compact\&theme=chartreuse-dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihtesham2828&show_icons=true&theme=radical&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&border_color=00FF41&border_radius=10)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihtesham2828&layout=compact&theme=radical&bg_color=000000&title_color=00FF41&text_color=FFFFFF&border_color=00FF41&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=ihtesham2828\&theme=chartreuse-dark)
 
 </div>
 
@@ -79,54 +70,45 @@ I'm **Ihtesham**, a passionate **Full Stack Developer** who transforms ideas int
 
 <div align="center">
 
-## 🚀 Currently Working On
+## 🚀 Current Goals
 
-```
-✨ Building cutting-edge full stack applications
-🔧 Mastering modern development frameworks
-🌐 Creating responsive, beautiful user interfaces  
-💡 Solving real-world problems with code
-🎓 Exploring new technologies and best practices
-```
+</div>
 
----
-
-## 💼 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-ihtesham2828-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ihtesham2828)
-
----
-
-## 📚 Resources
-
-| 📁 Projects | 🤝 Contributing | 📖 Guidelines |
-|:---------:|:-------------:|:-----------:|
-| [View Projects](PROJECTS.md) | [Contribute](CONTRIBUTING.md) | [Code of Conduct](CODE_OF_CONDUCT.md) |
-
----
-
-<div align="center">
-
-## 💎 My Philosophy
-
-```
-"Every great developer you know got there by solving problems they were 
-unqualified to solve until they actually did it. That's how you grow."
-
-- Build with purpose
-- Code with passion  
-- Ship with pride
+```text
+✓ Build Real-World Projects
+✓ Master JavaScript
+✓ Learn Backend Development
+✓ Improve Problem Solving Skills
+✓ Contribute to Open Source
 ```
 
 ---
 
-### ✨ Thank You for Stopping By!
+<div align="center">
 
-**Feel free to explore my repositories and don't hesitate to connect.**
+## 💼 Connect With Me
 
-*Made with ❤️ by Ihtesham*
+[![GitHub](https://img.shields.io/badge/GitHub-ihtesham2828-00FF41?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ihtesham2828)
 
 </div>
 
-</body>
-</html>
+---
+
+<div align="center">
+
+## 💎 Developer Mindset
+
+> "Code. Learn. Build. Repeat."
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting My Profile
+
+💚 Building the future, one line of code at a time.
+
+</div>
+
