@@ -1,9 +1,22 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:050816,100:3B82F6&text=Syed%20Ihtesham%20Ali&fontColor=00F7FF&fontSize=50&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Syed+Ihtesham+Ali;Full+Stack+Developer+💻;WordPress+Developer+🚀;JavaScript+Enthusiast+⚡;Building+Modern+Web+Experiences;Always+Learning+New+Technologies"/>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Syed+ihtesham+Ali;Full+Stack+Developer;WordPress+Developer;JavaScript+Lover;Always+Learning+New+Technologies🚀" />
+<br>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
+<br>
+
+<h3>
+🚀 Full Stack Developer | WordPress Developer | JavaScript Developer
+</h3>
+
+<p>
+Building responsive, scalable and user-friendly web applications with clean code.
+</p>
+
+<br>
 </div>
 
 ---
@@ -11,31 +24,47 @@
 # 💫 About Me
 
 ```javascript
-const Shah = {
+const Ihtesham = {
+
     name: "Syed Ihtesham Ali",
-    role: "Full Stack Developer",
-    skills: [
-        "HTML",
-        "CSS",
-        "Tailwind CSS",
-        "Bootstrap",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "MySQL",
-        "PHP",
-        "WordPress"
+
+    role: "Full Stack Developer 🚀",
+
+    experience: {
+        frontend: [
+            "HTML5",
+            "CSS3",
+            "Tailwind CSS",
+            "Bootstrap",
+            "JavaScript",
+        ],
+
+        backend: [
+            "PHP"
+        ],
+
+        database: [
+            "MySQL"
+        ],
+
+        cms: [
+            "WordPress"
+        ]
+    },
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
     ],
 
-    currentlyLearning: [
-        "Advanced React",
-        "Next.js",
-        "Backend APIs"
+    goals: [
+        "Building Scalable Applications",
+        "Creating Clean User Experiences",
+        "Contributing To Open Source"
     ],
 
-    passion: "Building Beautiful Websites ❤️"
+    mindset: "Learn → Build → Improve 🚀"
 }
 ```
 
@@ -54,10 +83,7 @@ const Shah = {
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ihtesham2828&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihtesham2828&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://ghstats.dev/api/card?username=ihtesham2828&theme=github_dark">
 
 </p>
 
@@ -76,10 +102,7 @@ const Shah = {
 # 🏆 GitHub Trophy
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ihtesham2828&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;WordPress+Developer;JavaScript+Developer;Always+Learning+New+Things"/></p>
 
 ---
 
@@ -97,7 +120,7 @@ const Shah = {
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ihtesham2828">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -119,6 +142,6 @@ const Shah = {
 
 ### *"Code. Learn. Build. Repeat."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting+My+Profile+❤️;Don't+Forget+To+Star+My+Repositories⭐"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&color=0:000000,40:050816,70:0A192F,100:3B82F6&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting+My+Profile+❤️;Don't+Forget+To+Star+My+Repositories⭐"/>
 
 </div>
