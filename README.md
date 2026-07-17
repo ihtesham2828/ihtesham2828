@@ -128,7 +128,7 @@ const Ihtesham = {
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="#">
+<a href="shahsyedalishah2828@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
