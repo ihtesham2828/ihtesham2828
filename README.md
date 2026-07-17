@@ -1,114 +1,108 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Syed Ihtesham Ali</h1>
 
-# 👋 Welcome to My GitHub Profile!
+<h3 align="center">
+🚀 Full Stack Developer | 💻 WordPress Developer | 🌐 Frontend & Backend Enthusiast
+</h3>
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=700\&size=35\&duration=4000\&pause=1000\&color=00FF41\&center=true\&vCenter=true\&width=800\&lines=Hi+I'm+Ihtesham;Full+Stack+Developer;JavaScript+Developer;Computer+Science+Student)
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 About Me
-
-</div>
-
-💻 **Full Stack Developer**
-
-🎓 Computer Science Student
-
-🚀 Passionate about building modern web applications
-
-📚 Always learning new technologies
-
-🎯 Focused on JavaScript, Web Development & Problem Solving
-
-🤝 Open to collaboration and exciting projects
+<p align="center">
+Passionate about building modern, responsive, and user-friendly web applications with clean, scalable, and efficient code.
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## 🛠️ Tech Stack
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&line1=html5,HTML5,E34F26;css3,CSS3,1572B6;javascript,JavaScript,F7DF1E;&line2=git,Git,F05032;github,GitHub,FFFFFF;vscode,VS%20Code,007ACC;" />
-
-</div>
-
-### 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+- 💼 Full Stack Developer
+- 🌐 WordPress Developer
+- 🎯 Passionate about Web Development
+- 📚 Always learning new technologies
+- ⚡ Love solving real-world problems with code
+- 🎨 Focused on UI/UX and Responsive Design
+- 🔥 Building projects that make an impact
 
 ---
 
-<div align="center">
+## 🚀 Tech Stack
 
-## 📊 GitHub Statistics
+### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihtesham2828\&show_icons=true\&theme=chartreuse-dark)
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihtesham2828\&layout=compact\&theme=chartreuse-dark)
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ihtesham2828\&theme=chartreuse-dark)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Current Goals
-
-</div>
-
-```text
-✓ Build Real-World Projects
-✓ Master JavaScript
-✓ Learn Backend Development
-✓ Improve Problem Solving Skills
-✓ Contribute to Open Source
-```
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,npm" />
+</p>
 
 ---
 
-<div align="center">
+## 📈 GitHub Stats
 
-## 💼 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-ihtesham2828-00FF41?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ihtesham2828)
-
-</div>
-
----
-
-<div align="center">
-
-## 💎 Developer Mindset
-
-> "Code. Learn. Build. Repeat."
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-<div align="center">
+## 📊 Most Used Languages
 
-### ⭐ Thanks for Visiting My Profile
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-💚 Building the future, one line of code at a time.
+---
 
-</div>
+## 🏆 GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+> "Code is not just about making software work — it's about creating experiences that inspire."
+
+---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! Happy Coding 🚀
+</h3>
