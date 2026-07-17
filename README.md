@@ -1,108 +1,124 @@
-<h1 align="center">Hi 👋, I'm Syed Ihtesham Ali</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | 💻 WordPress Developer | 🌐 Frontend & Backend Enthusiast
-</h3>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Syed+ihtesham+Ali;Full+Stack+Developer;WordPress+Developer;JavaScript+Lover;Always+Learning+New+Technologies🚀" />
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+```javascript
+const Shah = {
+    name: "Syed Ihtesham Ali",
+    role: "Full Stack Developer",
+    skills: [
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Bootstrap",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "MySQL",
+        "PHP",
+        "WordPress"
+    ],
+
+    currentlyLearning: [
+        "Advanced React",
+        "Next.js",
+        "Backend APIs"
+    ],
+
+    passion: "Building Beautiful Websites ❤️"
+}
+```
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
-Passionate about building modern, responsive, and user-friendly web applications with clean, scalable, and efficient code.
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,mysql,php,wordpress,git,github,vscode,figma"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 💼 Full Stack Developer
-- 🌐 WordPress Developer
-- 🎯 Passionate about Web Development
-- 📚 Always learning new technologies
-- ⚡ Love solving real-world problems with code
-- 🎨 Focused on UI/UX and Responsive Design
-- 🔥 Building projects that make an impact
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🛠️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,npm" />
-</p>
-
----
-
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ihtesham2828&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihtesham2828&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📊 Most Used Languages
+# 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ihtesham2828&theme=github-compact&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ihtesham2828&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
+
 </p>
 
 ---
 
-## 🌍 Connect With Me
+# 🚀 Visitor Counter
 
-<p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ihtesham2828&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="#">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 </p>
 
 ---
 
-## 💡 Developer Quote
+<div align="center">
 
-> "Code is not just about making software work — it's about creating experiences that inspire."
+## 💙 Quote
 
----
+### *"Code. Learn. Build. Repeat."*
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting+My+Profile+❤️;Don't+Forget+To+Star+My+Repositories⭐"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! Happy Coding 🚀
-</h3>
+</div>
